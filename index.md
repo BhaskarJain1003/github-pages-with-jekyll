@@ -11,5 +11,5 @@ I was a Vice President of EB's chapter of NHS.
 I have completed all of the Computer Science courses at EBHS at this time.
 
 I'm glad you are here. Here are my social medias:
-twitter_username: Bhaskar03631319
-github_username:  BhaskarJain1003 
+twitter_username: [Bhaskar03631319]("https://twitter.com/Bhaskar03631319")
+github_username: [BhaskarJain1003]("https://github.com/BhaskarJain1003")
