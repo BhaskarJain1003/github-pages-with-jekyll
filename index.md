@@ -1,5 +1,5 @@
 This is what I look like:
-![pfp]("/Bhaskar_headshot.jpg")
+![pfp]("/assets/Bhaskar_headshot.jpg")
 
 Here are some of my accomplishments: 
 I have been part of FRC Team 6897 for 4 years. 
