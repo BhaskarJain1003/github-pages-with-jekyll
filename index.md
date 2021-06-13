@@ -1,5 +1,8 @@
 ---
-title: "Welcome to my blog"
+title: "BHASKAR JAIN"
 ---
+This is what I look like:
 
-I'm glad you are here. I plan to talk about ...
+Here are some of my accomplishments: 
+
+I'm glad you are here. Here are my social medias:
